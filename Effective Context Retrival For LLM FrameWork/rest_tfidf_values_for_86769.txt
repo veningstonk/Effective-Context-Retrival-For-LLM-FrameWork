@@ -1,0 +1,112 @@
+🔍 Top-1 Evaluation Metrics:
+Accuracy@1: 25.1922
+MRR@1: 0.2519
+NDCG@1: 0.2519
+Recall@1: 0.2519
+Precision@1: 0.2519
+MAR@1: 0.2519
+
+🔍 Top-2 Evaluation Metrics:
+Accuracy@2: 33.1582
+MRR@2: 0.2917
+NDCG@2: 0.3022
+Recall@2: 0.3316
+Precision@2: 0.2917
+MAR@2: 0.1658
+
+🔍 Top-3 Evaluation Metrics:
+Accuracy@3: 38.2325
+MRR@3: 0.3086
+NDCG@3: 0.3275
+Recall@3: 0.3823
+Precision@3: 0.3086
+MAR@3: 0.1274
+
+🔍 Top-4 Evaluation Metrics:
+Accuracy@4: 42.0196
+MRR@4: 0.3181
+NDCG@4: 0.3438
+Recall@4: 0.4202
+Precision@4: 0.3181
+MAR@4: 0.1050
+
+🔍 Top-5 Evaluation Metrics:
+Accuracy@5: 45.0760
+MRR@5: 0.3242
+NDCG@5: 0.3557
+Recall@5: 0.4508
+Precision@5: 0.3242
+MAR@5: 0.0902
+
+🔍 Top-10 Evaluation Metrics:
+Accuracy@10: 54.9032
+MRR@10: 0.3373
+NDCG@10: 0.3874
+Recall@10: 0.5490
+Precision@10: 0.3373
+MAR@10: 0.0549
+
+🔍 Top-15 Evaluation Metrics:
+Accuracy@15: 60.7763
+MRR@15: 0.3419
+NDCG@15: 0.4030
+Recall@15: 0.6078
+Precision@15: 0.3419
+MAR@15: 0.0405
+
+🔍 Top-20 Evaluation Metrics:
+Accuracy@20: 64.8722
+MRR@20: 0.3443
+NDCG@20: 0.4127
+Recall@20: 0.6487
+Precision@20: 0.3443
+MAR@20: 0.0324
+
+🔍 Top-25 Evaluation Metrics:
+Accuracy@25: 67.8491
+MRR@25: 0.3456
+NDCG@25: 0.4192
+Recall@25: 0.6785
+Precision@25: 0.3456
+MAR@25: 0.0271
+
+🔍 Top-30 Evaluation Metrics:
+Accuracy@30: 70.1368
+MRR@30: 0.3464
+NDCG@30: 0.4239
+Recall@30: 0.7014
+Precision@30: 0.3464
+MAR@30: 0.0234
+
+🔍 Top-40 Evaluation Metrics:
+Accuracy@40: 73.4813
+MRR@40: 0.3473
+NDCG@40: 0.4303
+Recall@40: 0.7348
+Precision@40: 0.3473
+MAR@40: 0.0184
+
+🔍 Top-50 Evaluation Metrics:
+Accuracy@50: 75.8670
+MRR@50: 0.3479
+NDCG@50: 0.4347
+Recall@50: 0.7587
+Precision@50: 0.3479
+MAR@50: 0.0152
+
+🔍 Top-75 Evaluation Metrics:
+Accuracy@75: 79.6402
+MRR@75: 0.3485
+NDCG@75: 0.4410
+Recall@75: 0.7964
+Precision@75: 0.3485
+MAR@75: 0.0106
+
+🔍 Top-100 Evaluation Metrics:
+Accuracy@100: 81.8380
+MRR@100: 0.3487
+NDCG@100: 0.4444
+Recall@100: 0.8184
+Precision@100: 0.3487
+MAR@100: 0.0082
+ 
